@@ -1,0 +1,7 @@
+Before you compile and run the program use the Delete.txt to remove any uncessary files.
+Then you may compile
+      g++ Dictionary.C Main_A2.C 
+*You may also have to compile Dictionary.h too
+Run ./a.out
+Transaction file is TransF.txt
+The program will output what has been change with new files of the list of words for the dictionary
