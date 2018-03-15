@@ -1,0 +1,129 @@
+Enter a transaction file: 
+************* AddHusband **************
+Family w/ id 100100100 was added
+************* AddHusband **************
+Family w/ id 200200200 was added
+************* AddHusband **************
+Family w/ id 300300300 was added
+************* AddHusband **************
+Family w/ id 400400400 was added
+************* AddHusband **************
+Family w/ id 500500500 was added
+************ PrintAllFamilies *********
+
+Hus/Fath SSN: 500500500
+Hus/Fath Name: Ken Baker
+NO WIFE
+
+Hus/Fath SSN: 400400400
+Hus/Fath Name: Richard Anderson
+NO WIFE
+
+Hus/Fath SSN: 300300300
+Hus/Fath Name: Kevin Tarr
+NO WIFE
+
+Hus/Fath SSN: 200200200
+Hus/Fath Name: Joe Brown
+NO WIFE
+
+Hus/Fath SSN: 100100100
+Hus/Fath Name: Jim Smith
+NO WIFE
+*********** AddWife ***************
+This husband w/ id 200200200 is now married to 210210210
+*********** AddWife ***************
+This husband w/ id 400400400 is now married to 410410410
+*********** AddWife ***************
+This husband w/ id 500500500 is now married to 510510510
+*********** AddWife ***************
+This husband w/ id 333333333 does not exists
+************ PrintAllFamilies *********
+
+Hus/Fath SSN: 500500500
+Hus/Fath Name: Ken Baker
+Wife SSN: 510510510
+Wife Name: Beth Baker
+NO CHILD
+
+Hus/Fath SSN: 400400400
+Hus/Fath Name: Richard Anderson
+Wife SSN: 410410410
+Wife Name: Mary Anderson
+NO CHILD
+
+Hus/Fath SSN: 300300300
+Hus/Fath Name: Kevin Tarr
+NO WIFE
+
+Hus/Fath SSN: 200200200
+Hus/Fath Name: Joe Brown
+Wife SSN: 210210210
+Wife Name: Linda Brown
+NO CHILD
+
+Hus/Fath SSN: 100100100
+Hus/Fath Name: Jim Smith
+NO WIFE
+*********** AddAchild **************
+This father w/ id 200200200 now has a child w/ id 211211211
+*********** AddAchild **************
+This father w/ id 200200200 now has a child w/ id 212212212
+*********** AddAchild **************
+This father w/ id 200200200 already child w/ 211211211
+*********** AddAchild **************
+This father w/ id 500500500 now has a child w/ id 511511511
+*********** AddAchild **************
+This father w/ id 500500500 now has a child w/ id 512512512
+************ RemoveAchild ***********
+Child w/ ID 211211211 has been succesfully deleted
+************ RemoveAchild ***********
+Child w/ ID 311311311 can't be deleted
+*********** PrintAFamily *************
+No Family w/ id 333333333 exists
+*********** PrintAFamily *************
+
+Hus/Fath SSN: 400400400
+Hus/Fath Name: Richard Anderson
+Wife SSN: 410410410
+Wife Name: Mary Anderson
+NO CHILD
+*********** PrintAFamily *************
+
+Hus/Fath SSN: 200200200
+Hus/Fath Name: Joe Brown
+Wife SSN: 210210210
+Wife Name: Linda Brown
+Child SSN: 212212212
+Child Name: Rick Brown
+************ PrintAllFamilies *********
+
+Hus/Fath SSN: 500500500
+Hus/Fath Name: Ken Baker
+Wife SSN: 510510510
+Wife Name: Beth Baker
+Child SSN: 511511511
+Child Name: Sam Baker
+Child SSN: 512512512
+Child Name: Serge Baker
+
+Hus/Fath SSN: 400400400
+Hus/Fath Name: Richard Anderson
+Wife SSN: 410410410
+Wife Name: Mary Anderson
+NO CHILD
+
+Hus/Fath SSN: 300300300
+Hus/Fath Name: Kevin Tarr
+NO WIFE
+
+Hus/Fath SSN: 200200200
+Hus/Fath Name: Joe Brown
+Wife SSN: 210210210
+Wife Name: Linda Brown
+Child SSN: 212212212
+Child Name: Rick Brown
+
+Hus/Fath SSN: 100100100
+Hus/Fath Name: Jim Smith
+NO WIFE

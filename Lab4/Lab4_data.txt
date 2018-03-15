@@ -1,0 +1,26 @@
+John Doe
+012345678
+20
+M
+010011011
+Math 160
+Cs 211
+Posc 100
+
+Jane Doe
+987654321
+19
+F
+110110010
+Bio 100
+Math 125
+Musc 120
+
+Fiona Ocean
+643753809
+21
+F
+101001110
+Dan 300
+Art 320
+Soc 100

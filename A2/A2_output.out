@@ -1,0 +1,45 @@
+Enter a transaction file: 
+------------------- AddW student -----------
+Word student got added
+------------------- AddW teacher -----------
+Word teacher didn't get added
+------------------- AddW cs211 -----------
+Word: cs211 is not valid
+Word cs211 didn't get added
+---------------- InsertF data.txt ------------
+Word: object-oriented is not valid
+Word: well-known is not valid
+----------------- PrintF s.txt ------------
+systems        	successful     	suffer         	sufficiently   	semantics      	
+system         	static         	show           	second         	serializability	
+support        	student        	
+---------------- DeleteW student ------------
+Word student got deleted
+------------------- AddW hello -----------
+Word hello didn't get added
+------------- SpellCheck myEssay.txt ------------
+Misspelled word: Concrrent
+Misspelled word: themeselves
+Misspelled word: object-oriented
+Misspelled word: diferent
+Misspelled word: wich
+Misspelled word: analyziz
+Misspelled word: enhanc
+Misspelled word: transactian
+Misspelled word: well-known
+Misspelled word: relatted
+---------------- DeleteW play ------------
+Word play didn't get deleted
+---------------- SearchW medical ------------
+Word medical doesn't exist
+---------------- SearchW cs211 ------------
+Word cs211 doesn't exist
+----------------- PrintF c.txt ------------
+current        	concurrency    	changes        	consistency    	computationally	
+context        	correctness    	criterion      	conflict       	control        	
+----------------- PrintF h.txt ------------
+have           	has            	how            	histories      	hello          	
+----------------- PrintF t.txt ------------
+teacher        	to             	transaction    	that           	typically      	
+the            	transactions   	themselves     	this           	these          	
+than           	tractable      	third          	they           	
